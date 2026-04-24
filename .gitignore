@@ -1,5 +1,6 @@
 venv/
 .env
+service_account_key_old.json
 service_account_key.json
 upload.log
 __pycache__/
